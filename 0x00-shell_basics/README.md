@@ -1,1 +1,2 @@
-This should help you understand the directory
+This is going to help you understand the project
+
